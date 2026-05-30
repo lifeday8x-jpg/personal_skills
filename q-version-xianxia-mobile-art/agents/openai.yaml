@@ -1,0 +1,4 @@
+interface:
+  display_name: "Q版修仙手游美术"
+  short_description: "生成Q版修仙水墨风手游美术设定、资产规格和绘图提示词。"
+  default_prompt: "为一款Q版修仙水墨风手游生成角色、场景、UI或资产设定，并给出可交付的美术brief和AI绘图提示词。"

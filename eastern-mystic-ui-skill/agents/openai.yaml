@@ -1,0 +1,4 @@
+interface:
+  display_name: "东方玄幻仪式 UI 素材"
+  short_description: "灵鉴装置、山海水墨、符纹星盘游戏素材"
+  default_prompt: "Use $eastern-mystic-ui-skill to create a vertical mobile game asset brief for a Lingjian ritual UI screen."

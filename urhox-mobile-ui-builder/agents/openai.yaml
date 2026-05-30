@@ -1,0 +1,4 @@
+interface:
+  display_name: "UrhoX Mobile UI Builder"
+  short_description: "Generate and refine UrhoX vertical mobile game UI."
+  default_prompt: "Build a complete UrhoX vertical mobile game UI from my description, including layout, navigation, pages, interactions, and safe update patterns."
