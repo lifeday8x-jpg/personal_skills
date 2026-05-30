@@ -4,3 +4,7 @@ dist/
 .project/
 .cli/
 logs/
+.claude/
+.agent/
+scripts/
+tools/
